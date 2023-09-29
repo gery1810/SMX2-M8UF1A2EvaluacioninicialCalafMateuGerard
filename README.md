@@ -9,4 +9,10 @@ Que es una aplicación web? En la ingenieria de software se denomina aplicacion 
 Que es una herramienta de ofimatica? Las herramientas de ofimatica son aquellos programas o aplicaciones que nos permiten manipular informaticamente la información con la que se trabaja de forma habitual en una oficina.
 
 | Aplicaciones | Visto |
-| google docs | ![Alt text](image-1.png)
+| ---------- |:----------:|:----------:|
+|google docs|![Alt text](image.png)
+|google slide|![Alt text](image-2.png)
+|google sheets|![Alt text](image-3.png)
+|google calendar|![Alt text](image-4.png)
+|google meet|![Alt text](image-5.png)
+|...|...|
