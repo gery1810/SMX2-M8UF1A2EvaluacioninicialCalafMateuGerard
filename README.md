@@ -19,11 +19,21 @@ Que es una herramienta de ofimatica? Las herramientas de ofimatica son aquellos 
 
 Que es el HTML? Es el codigo que se utiliza para estructurar y desplegar una paginas web y sus contenidos. Por ejemplo, sus contenidos podrian ser parrafos, una lista con viñeta, o imagenes y tabla de datos.
 
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset=" UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    meta
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+</body>
+</html>
+```
+
+
 
 
